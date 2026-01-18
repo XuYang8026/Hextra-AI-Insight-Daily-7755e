@@ -4,22 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### 何夕2077 / justlovemaki
 
-Ten years of code, and while my fingertips might be cool, there's a burning fire within! 🔥 Then I heard the AI storm rumble, and I knew: it's time to dive in and make some waves!
+> Ten years of coding, cool at my fingertips, but the fire inside just wouldn't spark.
+> Then, I caught wind of the AI storm brewing — now I'm ready to dive in and make my mark! 💪
 
-#### My Code Philosophy
+#### 💡 My Code Philosophy
 
-Technology serves the people. 💡
+> Technology serves the people.
 
-#### Project Spotlight
+#### 🚀 My Banger Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   It's an AI image generation script that runs on Cloudflare Workers.
+    *   This is an AI image generation script powered by Cloudflare Worker.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This platform, powered by Cloudflare Workers, aggregates and generates content. It curates daily updates in the AI field, including industry news, popular open-source projects, cutting-edge academic papers, and social media insights from tech influencers.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   This content aggregation and generation platform, powered by Cloudflare Workers, daily curates the freshest AI buzz! Think industry news, hot open-source projects, groundbreaking academic papers, and even insights from big-shot tech influencers. 🤯
+*   Wanna see more cool stuff? Peep my [GitHub](https://github.com/justlovemaki) for all the deets! 👀
 
-#### What I'm Diving Into Now
+#### ✨ What I'm Diving Into Now
 
-What am I diving into now? 🤔 I'm super into LLM applications and website SEO, actively learning and putting what I learn into practice!
+I'm super into LLM applications and website SEO right now, totally immersing myself in learning and putting it all into practice. Let's build some cool stuff! 🛠️
