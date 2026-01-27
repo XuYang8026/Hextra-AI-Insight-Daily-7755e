@@ -85,3 +85,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Send notification
+        if: success()
+        run: |
+          curl -X POST "https://www.pushplus.plus/send/" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "token": "a1caf2e1b3ee478cb527b78917b7adf2",
+              "title": "AI资讯日报已部署",
+              "content": "AI资讯日报已成功部署到GitHub Pages，点击查看： ${{ steps.deployment.outputs.page_url }}"
+            }'
