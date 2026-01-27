@@ -290,5 +290,6 @@ jobs:
             -d '{
               "token": "a1caf2e1b3ee478cb527b78917b7adf2",
               "title": "AI资讯日报已更新",
+              "template":"txt",
               "content": "今日AI资讯日报已更新，点击查看： https://myaidailynews.netlify.app/"
             }'

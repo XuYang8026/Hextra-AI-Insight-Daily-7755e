@@ -93,5 +93,6 @@ jobs:
             -d '{
               "token": "a1caf2e1b3ee478cb527b78917b7adf2",
               "title": "AI资讯日报已部署",
+              "template":"txt",
               "content": "AI资讯日报已成功部署到GitHub Pages，点击查看： ${{ steps.deployment.outputs.page_url }}"
             }'
