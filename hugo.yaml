@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: 何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
+title: 小徐2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
 
 timezone: Asia/Shanghai
 enableRobotsTXT: true
@@ -49,12 +49,12 @@ menu:
       weight: 2
     - identifier: about      
       name: 关于我 ↗
-      url: "https://github.com/justlovemaki"
+      url: "https://github.com/XuYang8026"
       weight: 3
     - identifier: github   
-      name: 同性交友
+      name: 我的主页
       weight: 4
-      url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
+      url: "https://github.com/XuYang8026"
       params:
         icon: github
 
@@ -67,20 +67,20 @@ params:
   logo: "images/logo-dark.png"
   
   author:
-    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    name: "小徐2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
     bio: "去海边整点薯条"
-    email: "justlikemaki@qq.com"
-    website: "https://ai.hubtoday.app/about/"
+    email: ""
+    website: ""
     social:
       - name: "GitHub"
-        url: "https://github.com/justlovemaki"
+        url: "https://github.com/XuYang8026"
         
   publisher:
     type: "Person" 
-    name: "何夕2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
-    url: "https://ai.hubtoday.app/about/"
+    name: "小徐2077的AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态"
+    url: ""
     sameAs:
-      - "https://github.com/justlovemaki"
+      - "https://github.com/XuYang8026"
       
   displayUpdatedDate: true
   dateFormat: "2006/01/02 15:04:05"
