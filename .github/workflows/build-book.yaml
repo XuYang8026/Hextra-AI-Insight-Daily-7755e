@@ -280,3 +280,15 @@ jobs:
           file_pattern: 'content/*' # Only commit changes in content directory
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
+
+      # 第5步：发送完成通知
+      - name: Send notification
+        if: success()
+        run: |
+          curl -X POST "https://www.pushplus.plus/send/" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "token": "a1caf2e1b3ee478cb527b78917b7adf2",
+              "title": "AI资讯日报已更新",
+              "content": "今日AI资讯日报已更新，点击查看： https://myaidailynews.netlify.app/"
+            }'
